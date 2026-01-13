@@ -2,7 +2,7 @@
 
 During my internship at **AI Guru, Ahmedabad**, I worked on hands-on AI and Machine Learning applications that go beyond tutorials. These projects reflect real problem-solving in computer vision — from building object detection pipelines to training custom deep learning models.
 
-The highlight is the use of **YOLOv8** (You Only Look Once, version 8) — a state-of-the-art real-time object detection model widely used in industry and research due to its speed and accuracy. :contentReference[oaicite:0]{index=0}
+The highlight is the use of **YOLOv8** (You Only Look Once, version 8) — a state-of-the-art real-time object detection model widely used in industry and research due to its speed and accuracy. 
 
 ## 🔎 Projects
 
@@ -76,7 +76,7 @@ This project pushed me to think beyond static pages and build applications that 
 ## 🛠️ Technologies Used
 
 ✔ **Python** — scripting and model implementation  
-✔ **YOLOv8** — object detection deep learning model :contentReference[oaicite:1]{index=1}  
+✔ **YOLOv8** — object detection deep learning model
 ✔ **Ultralytics** — Python library for YOLO models  
 ✔ **OpenCV** — image/video processing  
 ✔ **Jupyter Notebooks** — experiment tracking and demonstration  
