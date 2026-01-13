@@ -1,10 +1,5 @@
 # 🤖 AI-Guru Projects
 
-Welcome to **AI-Guru** - a showcase of projects I developed during my internship at **AI Guru, Ahmedabad**.  
-This repository demonstrates real-world applications of Computer Vision and Deep Learning, including **YOLOv8-based object detection**, dataset preparation, model training, inference scripts, and more.
-
-## 🧠 About
-
 During my internship at **AI Guru, Ahmedabad**, I worked on hands-on AI and Machine Learning applications that go beyond tutorials. These projects reflect real problem-solving in computer vision — from building object detection pipelines to training custom deep learning models.
 
 The highlight is the use of **YOLOv8** (You Only Look Once, version 8) — a state-of-the-art real-time object detection model widely used in industry and research due to its speed and accuracy. :contentReference[oaicite:0]{index=0}
